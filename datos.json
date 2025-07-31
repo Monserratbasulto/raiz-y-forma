@@ -1,71 +1,71 @@
 {
-        "nombre_comercial": "Raíz & Forma",
+        "nombre_comercial": "Celia Desayunos & Algo Mas",
         "portada": [
             {
-                "nombre_producto": "Hogar de Estilo",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Carne en su jugo ",
+                "nombre_categoria": "Comida ",
                 "imagen": "./portada-producto-1.jpg"
             },
             {
-                "nombre_producto": "Silla Helen",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Sincronizada",
+                "nombre_categoria": "Desayuno",
                 "imagen": "./portada-producto-2.jpg"
             },
             {
-                "nombre_producto": "Jarron para Flores",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Fajitas de Pollo",
+                "nombre_categoria": "Comida",
                 "imagen": "./portada-producto-3.jpg"
             },
             {
-                "nombre_producto": "Huevos de Madera",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Carne Asada",
+                "nombre_categoria": "Comida",
                 "imagen": "./portada-producto-4.jpg"
             },
             {
-                "nombre_producto": "Mesa de Madera de Pino",
-                "nombre_categoria": "Mueble",
+                "nombre_producto": "Huevos Estrellados",
+                "nombre_categoria": "Desayuno",
                 "imagen": "./portada-producto-5.jpg"
             }
         ],
         "acerca_de": {
-            "nombre_tienda": "Tienda Raíz & Forma",
-            "descripcion": "Diseñamos y seleccionamos muebles con alma: funcionales, duraderos y con carácter propio. Nuestra pasión por los materiales nobles, como la madera maciza, se refleja en cada pieza que ofrecemos."
+            "nombre_tienda": "Celia Desayunos & Algo Mas,
+            "descripcion": "Celia Desayunos y Algo Más es una empresa dedicada a la preparación y venta de desayunos tradicionales mexicanos, con especialidad en birria"
         },
         "productos": [
             {
-				"nombre": "Lorem Sofá Max",
-				"precio_anterior": "499.99",
-				"precio": "429.99",
+				"nombre": "Carne en su Jugo",
+				"precio_anterior": "$130.00",
+				"precio": "$130.00",
 				"imagen": "./producto-1.jpg",
-				"categoria": "Sofás"
+				"categoria": "Comida"
 			},
 			{
-				"nombre": "Ipsum Mesa Central",
-				"precio_anterior": "299.99",
-				"precio": "249.99",
+				"nombre": "Sincronizada",
+				"precio_anterior": "$55.00",
+				"precio": "$55.00",
 				"imagen": "./producto-2.jpg",
-				"categoria": "Mesas"
+				"categoria": "Desayuno"
 			},
 			{
-				"nombre": "Dolor Silla Pro",
-				"precio_anterior": "89.99",
-				"precio": "74.99",
+				"nombre": "Fajitas de Pollo",
+				"precio_anterior": "$130.00",
+				"precio": "$130.00",
 				"imagen": "./producto-3.jpg",
-				"categoria": "Sillas"
+				"categoria": "Comida"
 			},
 			{
-				"nombre": "SitSofá Lounge",
-				"precio_anterior": "599.99",
-				"precio": "519.99",
+				"nombre": "Carne Asada",
+				"precio_anterior": "$130.00",
+				"precio": "$130.oo",
 				"imagen": "./producto-4.jpg",
-				"categoria": "Sofás"
+				"categoria": "Comida"
 			},
 			{
-				"nombre": "Amet Mesa Extensible",
-				"precio_anterior": "399.99",
-				"precio": "349.99",
+				"nombre": "Huevos Estrellados",
+				"precio_anterior": "$105",
+				"precio": "$105.00",
 				"imagen": "./producto-5.jpg",
-				"categoria": "Mesas"
+				"categoria": "Desayuno"
 			},
 			{
 				"nombre": "Elit Silla Nordic",
