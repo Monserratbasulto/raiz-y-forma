@@ -68,28 +68,28 @@
 				"categoria": "Desayuno"
 			},
 			{
-				"nombre": "Elit Silla Nordic",
-				"precio_anterior": "119.99",
-				"precio": "99.99",
+				"nombre": "Torta de Birria",
+				"precio_anterior": "$65.",
+				"precio": "$65.00",
 				"imagen": "./producto-6.jpg",
-				"categoria": "Sillas"
+				"categoria": "Lonches"
 			},
 			{
-				"nombre": "Adipiscing Sofá Retro",
-				"precio_anterior": "459.99",
-				"precio": "399.99",
+				"nombre": "Birria",
+				"precio_anterior": "125.00",
+				"precio": "$125.00",
 				"imagen": "./producto-7.jpg",
-				"categoria": "Sofás"
+				"categoria": "Desayuno"
 			},
 			{
-				"nombre": "Tempor Mesa Minimal",
-				"precio_anterior": "199.99",
-				"precio": "159.99",
+				"nombre": "Tacos de Chicharron",
+				"precio_anterior": "25.00",
+				"precio": "$25.00",
 				"imagen": "./producto-8.jpg",
-				"categoria": "Mesas"
+				"categoria": "Comida"
 			}
         ],
-        "derechos_reservados": "Todos los derechos reservados Raíz & Forma 2025.",
+        "derechos_reservados": "Todos los derechos reservados Celia Desayunos y Algo Mas 2025.",
 		"botones_formulario": [
 			{
 				"titulo": "Quejas, dudas o sugerencias",
@@ -102,3 +102,4 @@
 		],
 		"descargar_catalogo_url": ""
     }
+
