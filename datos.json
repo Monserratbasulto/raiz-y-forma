@@ -4,27 +4,27 @@
             {
                 "nombre_producto": "Carne en su jugo ",
                 "nombre_categoria": "Comida ",
-                "imagen": "./portada-producto-1.jpg"
+                "imagen": "./carne en su jugo.jpg"
             },
             {
                 "nombre_producto": "Sincronizada",
                 "nombre_categoria": "Desayuno",
-                "imagen": "./portada-producto-2.jpg"
+                "imagen": "./sincronizada.jpg"
             },
             {
                 "nombre_producto": "Fajitas de Pollo",
                 "nombre_categoria": "Comida",
-                "imagen": "./portada-producto-3.jpg"
+                "imagen": "./fajitas de pollo.jpg"
             },
             {
                 "nombre_producto": "Carne Asada",
                 "nombre_categoria": "Comida",
-                "imagen": "./portada-producto-4.jpg"
+                "imagen": "./carne asada.jpg"
             },
             {
                 "nombre_producto": "Huevos Estrellados",
                 "nombre_categoria": "Desayuno",
-                "imagen": "./portada-producto-5.jpg"
+                "imagen": "./huevos estrellados.jpg"
             }
         ],
         "acerca_de": {
@@ -102,4 +102,5 @@
 		],
 		"descargar_catalogo_url": ""
     }
+
 
