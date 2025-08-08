@@ -14,7 +14,7 @@
             {
                 "nombre_producto": "Fajitas de Pollo",
                 "nombre_categoria": "Comida",
-                "imagen": "./fajitas de pollo.jpg"
+                "imagen": "./Fajitas.jpg"
             },
             {
                 "nombre_producto": "Carne Asada",
@@ -71,7 +71,7 @@
 				"nombre": "Torta de Birria",
 				"precio_anterior": "$65.",
 				"precio": "$65.00",
-				"imagen": "./Torta de birria.jpg",
+				"imagen": "./Torta de Birria.jpg",
 				"categoria": "Lonches"
 			},
 			{
@@ -85,7 +85,7 @@
 				"nombre": "Tacos de Chicharron",
 				"precio_anterior": "25.00",
 				"precio": "$25.00",
-				"imagen": "./Tacos de chicharron.jpg",
+				"imagen": "./Tacos de Chicharron.jpg",
 				"categoria": "Comida"
 			}
         ],
@@ -102,6 +102,7 @@
 		],
 		"descargar_catalogo_url": ""
     }
+
 
 
 
