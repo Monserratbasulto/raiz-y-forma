@@ -56,7 +56,7 @@
 			{
 				"nombre": "Carne Asada",
 				"precio_anterior": "130.00",
-				"precio": "130.oo",
+				"precio": "130.00",
 				"imagen": "./carne asada.jpg",
 				"categoria": "Comida"
 			},
@@ -102,6 +102,7 @@
 		],
 		"descargar_catalogo_url": ""
     }
+
 
 
 
