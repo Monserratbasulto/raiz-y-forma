@@ -36,56 +36,56 @@
 				"nombre": "Carne en su Jugo",
 				"precio_anterior": "$130.00",
 				"precio": "$130.00",
-				"imagen": "./producto-1.jpg",
+				"imagen": "./carne en su jugo.jpg",
 				"categoria": "Comida"
 			},
 			{
 				"nombre": "Sincronizada",
 				"precio_anterior": "$55.00",
 				"precio": "$55.00",
-				"imagen": "./producto-2.jpg",
+				"imagen": "./sincronizada.jpg",
 				"categoria": "Desayuno"
 			},
 			{
 				"nombre": "Fajitas de Pollo",
 				"precio_anterior": "$130.00",
 				"precio": "$130.00",
-				"imagen": "./producto-3.jpg",
+				"imagen": "./fajitas de pollo.jpg",
 				"categoria": "Comida"
 			},
 			{
 				"nombre": "Carne Asada",
 				"precio_anterior": "$130.00",
 				"precio": "$130.oo",
-				"imagen": "./producto-4.jpg",
+				"imagen": "./carne asada.jpg",
 				"categoria": "Comida"
 			},
 			{
 				"nombre": "Huevos Estrellados",
 				"precio_anterior": "$105",
 				"precio": "$105.00",
-				"imagen": "./producto-5.jpg",
+				"imagen": "./huevos estrellados.jpg",
 				"categoria": "Desayuno"
 			},
 			{
 				"nombre": "Torta de Birria",
 				"precio_anterior": "$65.",
 				"precio": "$65.00",
-				"imagen": "./producto-6.jpg",
+				"imagen": "./torta de birria.jpg",
 				"categoria": "Lonches"
 			},
 			{
 				"nombre": "Birria",
 				"precio_anterior": "125.00",
 				"precio": "$125.00",
-				"imagen": "./producto-7.jpg",
+				"imagen": "./birria.jpg",
 				"categoria": "Desayuno"
 			},
 			{
 				"nombre": "Tacos de Chicharron",
 				"precio_anterior": "25.00",
 				"precio": "$25.00",
-				"imagen": "./producto-8.jpg",
+				"imagen": "./tacos de chicharron.jpg",
 				"categoria": "Comida"
 			}
         ],
@@ -102,5 +102,6 @@
 		],
 		"descargar_catalogo_url": ""
     }
+
 
 
