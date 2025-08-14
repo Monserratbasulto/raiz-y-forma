@@ -4,7 +4,7 @@
             {
                 "nombre_producto": "Carne en su jugo ",
                 "nombre_categoria": "Comida ",
-                "imagen": "./carne en su jugo.jpg"
+                "imagen": "./Carne en su jugo.jpg"
             },
             {
                 "nombre_producto": "Sincronizada",
@@ -69,7 +69,7 @@
 			},
 			{
 				"nombre": "Torta de Birria",
-				"precio_anterior": "65.",
+				"precio_anterior": "65.00",
 				"precio": "65.00",
 				"imagen": "./Torta de Birria.jpg",
 				"categoria": "Lonches"
@@ -102,6 +102,7 @@
 		],
 		"descargar_catalogo_url": ""
     }
+
 
 
 
